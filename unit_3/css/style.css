@@ -55,8 +55,10 @@ h1 {
 }
 a {
 	color: black;
+	transition: background-color .5s;
+	cursor: pointer;
 }
 a:hover { 
   background-color: purple;
-  cursor: pointer;
+  
 }

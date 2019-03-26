@@ -47,8 +47,8 @@ h1 {
 	
 }
 #divFixedContactName {
-	position: absolute;
-	top: 50%;
+	position: fixed;
+	top: 90%;
 	left: 0%;
 	bottom: 10%;
 

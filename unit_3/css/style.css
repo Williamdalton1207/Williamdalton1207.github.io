@@ -53,6 +53,9 @@ h1 {
 	font-size: 15pt;
 	padding-left: 200px;
 }
+a {
+	color: black;
+}
 a:hover { 
   background-color: purple;
   cursor: pointer;

@@ -53,13 +53,13 @@ h1 {
 	font-size: 15pt;
 	padding-left: 200px;
 }
-a:visited {
-	color: green;
-}
 a:link {
 	color: black;
 	transition: background-color 1s;
 	cursor: pointer;
+}
+a:visited {
+	color: green;
 }
 a:hover { 
 	color: white;

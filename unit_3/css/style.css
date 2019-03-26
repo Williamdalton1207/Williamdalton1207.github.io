@@ -47,6 +47,7 @@ h1 {
 	
 }
 #divFixedContactName {
+	background-color: white;
 	position: fixed;
 	top: 90%;
 	left: 0%;

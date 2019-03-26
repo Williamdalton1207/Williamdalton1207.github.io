@@ -48,8 +48,9 @@ h1 {
 }
 #divFixedContactName {
 	position: absolute;
+	top: 50%;
 	left: 0%;
-	bottom: 80%;
+	bottom: 10%;
 
 }
 .liSkills{

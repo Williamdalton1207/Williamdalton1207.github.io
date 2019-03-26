@@ -46,6 +46,11 @@ h1 {
 	border: 1px solid white;
 	
 }
+#divFixedContactName {
+	position: fixed;
+	margin: 0px, 10px, 0px, 10px;
+	
+}
 .liSkills{
 	color: white;
 }
@@ -53,6 +58,7 @@ h1 {
 	font-size: 15pt;
 	padding-left: 200px;
 }
+
 a:link {
 	color: black;
 	transition: background-color 1s;

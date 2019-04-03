@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Asap');
+
+body {
+	background: url("../images/computer.jpg") white;
+	background-size: cover;
+}
+h1 {
+	font-weight: 800;
+	background-color: transparent;
+	text-align: center;
+	color: white;
+
+}
+.slogan {
+	font-family: 'Asap', sans-serif;
+	font-style: italic;
+	color: white;
+	margin: 0 auto;
+	align-items: center;
+	display: flex;
+	font-size: 18pt;
+
+	
+}
+.sloganDiv {
+	height: 50%;
+	width:40%;
+	background-color: #000;
+	margin: 0 auto;
+	align-items: center;
+	display: flex;
+	border: 1px solid white;
+	padding-left: 15px;
+	padding-right: 15px;
+	overflow: auto;
+
+}
+.divListOfExpertise {
+		color: white;
+		font-family: 'Asap', sans-serif;
+		overflow: auto;
+}
+.divContainerOfExpertiseList{
+	height:110px;
+	width:40%;
+	background-color: #000;
+	margin: 0 auto;
+	align-items: center;
+	display: flex;
+	border: 1px solid white;
+	padding: 15px;
+	letter-spacing: 3px;
+	overflow: auto;
+}
+.divContainerOfSkills{
+	height:25%;
+	width:25%;
+	background-color: #000;
+	border: 1px solid white;
+	overflow: auto;
+	
+}
+#divFixedContactName {
+	background-color: #d9d9d9;
+	color: red;
+	position: fixed;
+	top: 90%;
+	left: 20%;
+	bottom: 20%;
+	width: 300px;
+	height: 50px;
+	border-radius: 25px;
+	padding: 15px;
+	overflow: auto;
+	font-family: 'Asap', sans-serif;
+	font-weight: bold;
+	
+	
+}
+.liSkills{
+	color: white;
+}
+a:link {
+	color: black;
+	transition: background-color 1s;
+	cursor: pointer;
+
+}
+a:visited {
+	color: green;
+}
+a:hover { 
+	color: white;
+  	background-color: purple;
+}
